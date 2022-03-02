@@ -1,4 +1,5 @@
 - Instructions:
+  - Download and unzip the project, then run the uno31 application.  
   - Unolingo requires you to view an ad prior to playing the game.
   - After watching the ad, you can use the Prev and Next buttons to select any day's game.
   - Avoid manually selecting any of the squares in the game board.
