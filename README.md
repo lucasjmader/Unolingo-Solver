@@ -1,5 +1,3 @@
-- About
-  - This is an application that will open the word puzzle Unolingo through USA Today and then solve the puzzle automatically.
 - Instructions
   - Download and unzip the project, then run the unopy31 application.  
   - Unolingo requires you to view an ad prior to playing the game.
