@@ -4,3 +4,4 @@
   - After watching the ad, you can use the Prev and Next buttons to select any day's game.
   - Avoid manually selecting any of the squares in the game board.
   - Once you are ready, try to position the window so that the timer at the top of the game window and all the letter spaces in the board are visbile. Then, press q.
+- I know the code isn't pretty. I wanted to just make a program that did what it was supposed to do, and didn't have time to add all the documentation or organize code.
